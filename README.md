@@ -1,7 +1,7 @@
 # mcachesimple
 Key/Value Store Caching System.
 
-*This project is developed for personal used - You can use it by your own risk and purpose !!!*
+*This project is developed for personal use - You can use it at your own risk and purpose !!!*
 
 **Example Usage: **
 
